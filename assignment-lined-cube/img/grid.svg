@@ -1,0 +1,11 @@
+<svg version = "1.1"
+baseprofile = "full"
+class="grid" 
+viewbox="0 0 1000 1000"
+xmlns= "http://www.w3.org/2000/svg"
+fill = "white"
+stroke = "red"
+Stroke-width = '1'>
+<path d="M0 0,h1000,M0 100,h1000,M0 200,h1000,M0 300,h1000,M0 400,h1000,M0 500,h1000,M0 600,h1000,M0 700,h1000,M0 800,h1000,M0 900,h1000,M0 1000,h1000"/>
+<path d="M0 0,v1000,M100 0,v1000,M200 0,v1000,M300 0,v1000,M400 0,v1000,M500 0,v1000,M600 0,v1000,M700 0,v1000,M800 0,v1000,M900 0,v1000,M1000 0,v1000,"/>
+</svg>
